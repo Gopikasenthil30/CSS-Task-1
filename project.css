@@ -1,0 +1,242 @@
+body {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0 ,0, 300,);
+    background-image: url('bg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+ } 
+.box{
+    float: left;
+    width: 350px;
+    height: 700px;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 1px 1px 9px cornflowerblue;
+    background-color: hsla(210, 89%, 22%, 0.5);
+}
+.nav{
+    float: right;
+    font-size: 30px;
+    border-radius: 5px;
+    position: absolute;
+    left: 160px;
+    top: 10px;
+}
+.id{
+    height: 110px;
+
+}
+.id img{
+    width: 80px; 
+    height: 80px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.id h3{
+    font-size: 25px;
+    position: relative;
+    left: 120px;
+    bottom: 120px;
+    font-family: 'Trebuchet MS';
+    color: white;
+}
+.id h5{
+    color: white;
+    position: relative;
+    left: 120px;
+    bottom: 135px;
+    font-family: 'Trebuchet MS';
+}
+.details{
+    height: max-content;
+}
+.aa i{
+    font-size: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(122, 157, 222);
+    padding: 7px;
+    border-radius: 5px;
+}
+.data1 span{
+    color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 165px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Franklin Gothic Medium';
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.arw{
+    color: white;
+    position: absolute;
+    left: 335px;
+    top: 165px;
+}
+.bb i{
+    font-size: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(122, 157, 222);
+    padding: 7px;
+    border-radius: 5px;
+}
+.data2 span{
+    color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 218px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Franklin Gothic Medium';
+}
+.arw1{
+    color: white;
+    position: absolute;
+    left: 335px;
+    top: 218px;
+}
+.cc i{
+    font-size: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(122, 157, 222);
+    padding: 7px;
+    border-radius: 5px;
+}
+.data3 span{
+    color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 270px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Franklin Gothic Medium';
+}
+.arw2{
+    color: white;
+    position: absolute;
+    left: 335px;
+    top: 270px;
+}
+.dd i{
+    font-size: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(122, 157, 222);
+    padding: 7px;
+    border-radius: 5px;
+}
+.data4 span{
+    color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 323px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Franklin Gothic Medium';
+}
+.arw3{
+    color: white;
+    position: absolute;
+    left: 335px;
+    top: 323px;
+}
+.ee i{
+    font-size: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(122, 157, 222);
+    padding: 5px;
+    border-radius: 5px;
+}
+.data5 span{
+    color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 378px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Franklin Gothic Medium';
+}
+.arw4{
+    color: white;
+    position: absolute;
+    left: 335px;
+    top: 378px;
+}
+.icon1 i{
+    font-size: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(122, 157, 222);
+    padding: 5px;
+    border-radius: 5px;
+}
+.data6 span{
+    color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 443px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Franklin Gothic Medium';
+}
+.arw5{
+    color: white;
+    position: absolute;
+    left: 335px;
+    top: 443px;
+}
+.icon2 i{
+    font-size: 20px;
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: rgb(122, 157, 222);
+    padding: 5px;
+    border-radius: 5px;
+}
+.data7 span{
+    color: white;
+    margin-left: 55px;
+    position: absolute;
+    top: 493px;
+    font-weight: bold;
+    font-size: large;
+    font-family:'Franklin Gothic Medium';
+}
+.arw6{
+    color: white;
+    position: absolute;
+    left: 335px;
+    top: 493px;
+}
+.hm{
+    font-size: 35px;
+    margin-left: 18px;
+    margin-top: 130px;
+}
+.cht{
+    font-size: 35px;
+    margin-left: 115px;
+    position: relative;
+    bottom: 38px;
+}
+.msg{
+    font-size: 35px;
+    margin-left: 215px;
+    position: relative;
+    bottom: 75px;
+}
+.prf{
+    font-size: 35px;
+    margin-left: 296px;
+    position: relative;
+    bottom: 118px;
+}
